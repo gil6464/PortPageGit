@@ -1,0 +1,15 @@
+@media(min-width:200px){
+    label{
+    font-size: 1.25rem;
+ }
+}
+#welcome-section{
+    height:100vh
+}#navbar{
+    position: fixed;
+    top: 10px;
+}
+*{
+    background-color:aqua;
+    color:red;
+}
